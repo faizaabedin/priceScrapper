@@ -1,4 +1,4 @@
   # exclude everything except directory foo/bar
-    .env
-    key.json
-    secret_key.json
+  *.env
+  key.json
+  secret_key.json
