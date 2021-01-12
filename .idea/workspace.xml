@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01a76d4b-ec86-4cae-95fa-a32282c7b39d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1kLmMcun6ncqGKUdf1cnMB8GEBK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/updateSheet.go" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/updateSheet.go" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build priceScrapper.go">
+    <configuration name="go build priceScrapper.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="scrapper" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/priceScrapper.go" />
+      <package value="scrapper" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build scrapper" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="scrapper" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/getPrice.go" />
+      <package value="scrapper" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build updateSheet.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="scrapper" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/updateSheet.go" />
+      <package value="scrapper" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build updateSheets" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" temporary="true">
+      <module name="scrapper" />
+      <working_directory value="$PROJECT_DIR$" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="scrapper" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build updateSheets.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="scrapper" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/updateSheets.go" />
+      <package value="scrapper" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build priceScrapper.go" />
+        <item itemvalue="Go Build.go build scrapper" />
+        <item itemvalue="Go Build.go build updateSheet.go" />
+        <item itemvalue="Go Build.go build updateSheets" />
+        <item itemvalue="Go Build.go build updateSheets.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1051" y="338" key="#Go_Modules" timestamp="1605488512915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1051" y="338" key="#Go_Modules/0.0.1920.1040@0.0.1920.1040" timestamp="1605488512915" />
+    <state x="1121" y="307" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610469025466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1121" y="307" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610469025466" />
+    <state width="896" height="466" key="DebuggerActiveHint" timestamp="1605935856566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="896" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1605935856566" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1605509705060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605509705060" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608084484943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608084484943" />
+    <state width="1236" height="214" key="GridCell.Tab.0.bottom" timestamp="1607297813781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607297813781" />
+    <state width="1236" height="214" key="GridCell.Tab.0.center" timestamp="1607297813781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607297813781" />
+    <state width="1236" height="214" key="GridCell.Tab.0.left" timestamp="1607297813781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607297813781" />
+    <state width="1236" height="214" key="GridCell.Tab.0.right" timestamp="1607297813781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1236" height="214" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607297813781" />
+    <state width="1626" height="349" key="GridCell.Tab.1.bottom" timestamp="1607293671803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1626" height="349" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607293671803" />
+    <state width="1626" height="349" key="GridCell.Tab.1.center" timestamp="1607293671803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1626" height="349" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607293671803" />
+    <state width="1626" height="349" key="GridCell.Tab.1.left" timestamp="1607293671803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1626" height="349" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607293671803" />
+    <state width="1626" height="349" key="GridCell.Tab.1.right" timestamp="1607293671803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1626" height="349" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607293671803" />
+    <state x="922" y="150" key="SettingsEditor" timestamp="1605508465624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="150" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605508465624" />
+    <state width="702" height="520" key="XDebugger.FullValuePopup" timestamp="1605832139948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="702" height="520" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1605832139948" />
+    <state x="996" y="244" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1605831976924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="996" y="244" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605831976924" />
+    <state x="4" y="24" width="1300" height="837" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606864431735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4" y="24" width="1300" height="837" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606864431735" />
+    <state x="462" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1606864596900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="462" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606864596900" />
+    <state x="952" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605807973241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="952" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605807973241" />
+  </component>
+</project>
